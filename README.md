@@ -19,7 +19,7 @@ npm run build --report
 ```
 
 
-##DEMO 
+## DEMO 
 
 ![](https://github.com/MrTenger/vue-news-demo/blob/master/screenshots/news.gif)
 
